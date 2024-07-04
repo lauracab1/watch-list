@@ -62,3 +62,12 @@ group :development do
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
 end
 
+gem "dotenv-rails"
+gem "simple_form"
+gem "sassc-rails"
+gem "bootstrap", "~> 5.2"
+gem "font-awesome-sass", "~> 6.1"
+gem "autoprefixer-rails"
+gem "ffi", "~> 1.16.3"
+gem 'faker'
+gem "cloudinary"
